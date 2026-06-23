@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Kat Predictor
 // @namespace    kat
-// @version      6.1.2
+// @version      6.1.3
 // @description  bloxflip.com prediction tools
 // @match        *://bloxflip.com/*
 // @grant        none
